@@ -26,61 +26,61 @@ a tiny editor that helped me create body part transformations for a raytracer an
 ![example of CharacterAnimation](CharacterAnimation/example.png)
 
 ### [ChromaticAbberation](ChromaticAbberation)
-Wo<sub>o<sup>o<sub>o<sup>o<sub>o</sub></sup></sub></sup></sub></sub> <sub><sup><sub><sup>o</sup>o</sub>o</sup>o</sub>o</sub>w
+Wo<sub>o<sup>o<sub>o<sup>o<sub>o</sub></sup></sub></sup></sub></sub> <sub><sup><sub><sup>o</sup>o</sub>o</sup>o</sub>o</sub>w  
 ![example of ChromaticAbberation](ChromaticAbberation/example.png)
 
 ### [ColorPalette](ColorPalette)
-small attempt to make an editor to put color palettes together
+small attempt to make an editor to put color palettes together  
 ![example of ColorPalette](ColorPalette/example.png)
 
 ### [ConvexHull](ConvexHull)
 ![example of ConvexHull](ConvexHull/example.png)
 
 ### [DndDice](DndDice)
-geometry i needed as drawing reference. could have used blender
+geometry i needed as drawing reference. could have used blender  
 ![example of DndDice](DndDice/example.png)
 
 ### [FortunesAlgorithm](FortunesAlgorithm)
 ![example of FortunesAlgorithm](FortunesAlgorithm/example.png)
 
 ### [FibonacciDisk](FibonacciDisk)
-the sunflower pattern
+the sunflower pattern  
 ![example of SphereFibonacci](FibonacciDisk/example.png)
 
 ### [HilbertCurve](HilbertCurve)
-remake of a t-shirt design I saw online
+remake of a t-shirt design I saw online  
 ![example of HilbertCurve](HilbertCurve/example.png)
 
 ### [HilbertSlime](HilbertSlime)
-a squishy hilbert curve (animated)
+a squishy hilbert curve (animated)  
 ![example of HilbertSlime](HilbertSlime/example.png)
 
 ### [ImageToColorblindTest](ImageToColorblindTest)
-converts images to these color blind test bubbles
+converts images to these color blind test bubbles  
 ![example of ImageToColorblindTest](ImageToColorblindTest/example.png)
 
 ### [MazeAlgorithmVisualization](MazeAlgorithmVisualization)
-an animation of different maze generation algorithms
+an animation of different maze generation algorithms  
 ![example of MazeAlgorithmVisualization](MazeAlgorithmVisualization/example.png)
 
 ### [OrigamiSim](OrigamiSim)
-an attempt to make a 2D paper folding simulator. it worked... sometimes
+an attempt to make a 2D paper folding simulator. it worked... sometimes  
 ![example of OrigamiSim](OrigamiSim/example.png)
 
 ### [PortalSimulation](PortalSimulation)
-a tiny voxel area I used to figure out some properties about view cones through a blocky window
+a tiny voxel area I used to figure out some properties about view cones through a blocky window  
 ![example of PortalSimulation](PortalSimulation/example.png)
 
 ### [RadialNoise](RadialNoise)
-perlin noise... in a circle
+perlin noise... in a circle  
 ![example of RadialNoise](RadialNoise/example.png)
 
 ### [RainbowBlob](RainbowBlob)
-an animated wobbly blob i tried to recreate from https://www.uni-weimar.de/bauhausmodule/
+an animated wobbly blob i tried to recreate from https://www.uni-weimar.de/bauhausmodule/  
 ![example of RainbowBlob](RainbowBlob/example.png)
 
 ### [RainbowSmoke](RainbowSmoke)
-after the concept of [Jozsef Fejes](http://rainbowsmoke.hu/home)
+after the concept of [Jozsef Fejes](http://rainbowsmoke.hu/home)  
 ![example of RainbowSmoke](RainbowSmoke/example.png)
 
 ### [RingPattern](RingPattern)
@@ -90,13 +90,13 @@ after the concept of [Jozsef Fejes](http://rainbowsmoke.hu/home)
 ![example of RingPattern2](RingPattern2/example.png)
 
 ### [SixStarMandala](SixStarMandala)
-a canvas to draw things mirrored along 12 axes
+a canvas to draw things mirrored along 12 axes  
 ![example of SixStarMandala](SixStarMandala/example.png)
 
 ### [SphereRandom](SphereRandom)
-random points distributed nicely smooth even over a sphere
+random points distributed nicely smooth even over a sphere  
 ![example of SphereRandom](SphereRandom/example.png)
 
 ### [Spikeball](Spikeball)
-an assortment of tubes with variable thickness to make all kinds of silly shapes
+an assortment of tubes with variable thickness to make all kinds of silly shapes  
 ![example of Spikeball](Spikeball/example.png)
