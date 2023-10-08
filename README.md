@@ -19,7 +19,7 @@ small tool that helped me figure out how to rotate Minecraft block coordinates
 
 ### [Chalkboard](Chalkboard)
 a chalk line renderer that actually looked really nice imo
-![example of chalkboard](chalkboard/example.png)
+![example of chalkboard](Chalkboard/example.png)
 
 ### [CharacterAnimation](CharacterAnimation)
 a tiny editor that helped me create body part transformations for a raytracer animation
@@ -94,7 +94,7 @@ a canvas to draw things mirrored along 12 axes
 ![example of SixStarMandala](SixStarMandala/example.png)
 
 ### [SphereRandom](SphereRandom)
-random points distributed nicely smooth even over a sphere  
+random points distributed nicely evenly over a sphere
 ![example of SphereRandom](SphereRandom/example.png)
 
 ### [Spikeball](Spikeball)
